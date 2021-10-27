@@ -12,6 +12,8 @@ public class Main {
 //        String[] userName = {"John", "Mike", "Sarah"};
 //        String[] userPw = {"pw1", "pw2", "pw3"};
 
+
+
         System.out.println( "Enter your Name: " );
         name = userInput.next();
 
@@ -54,6 +56,7 @@ public class Main {
         }
         return false;
     }
+
 
 //    private static boolean changePassword(String name, String inputPw) {
 //        String[] userName = {"John", "Mike", "Sarah"};
